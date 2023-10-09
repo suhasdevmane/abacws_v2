@@ -16,6 +16,7 @@ You can view the documentation for the two separate services in their respective
 I recommend using docker compose to deploy this to your own server alongside [traefik](https://traefik.io/traefik/).\
 An example compose file can be seen below.
 
+
 ```yml
 version: '3.8'
 services:
