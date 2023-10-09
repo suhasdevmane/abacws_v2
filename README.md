@@ -17,6 +17,7 @@ I recommend using docker compose to deploy this to your own server alongside [tr
 An example compose file can be seen below.
 
 
+
 ```yml
 version: '3.8'
 services:
